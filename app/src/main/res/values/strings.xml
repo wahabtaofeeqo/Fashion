@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Fashion</string>
+
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone</string>
+    <string name="password">Password</string>
+    <string name="cPassword">Confirm Password</string>
+    <string name="register">Register</string>
+    <string name="newAccount">New Account</string>
+    <string name="open">Drawer Opened</string>
+    <string name="close">Drawer Closed</string>
+    <string name="welcome">Welcome Back: </string>
+
+    <string name="home">Home</string>
+    <string name="request">Service Request</string>
+    <string name="logs">Services</string>
+    <string name="login">Login</string>
+    <string name="contact">Contact Us</string>
+    <string name="profile">My Profile</string>
+    <string name="settings">Settings</string>
+    <string name="others">  Others</string>
+    <string name="about">About Us</string>
+    <string name="policy">Privacy Policy</string>
+    <string name="create">Create Account</string>
+    <string name="uploads">My Uploads</string>
+    <string name="upload">Upload Styles</string>
+    <string name="logout">Logout</string>
+
+    <string name="aboutUs">On Demand Car wash is a final year project carried out by Bioye
+        under the supervision of Mr Biodun Orunsolu (ORIFOGO) implemented in Android Platform
+        using Java Programming Language and Firebase as the storage server.</string>
+
+    <string name="intro">
+        Fashion blog is a system design to host fashion design styles. The service provided by the system similar to the traditional styles magazine.
+    </string>
+</resources>
